@@ -1,4 +1,4 @@
-balckIP:
-	continueCounts: 10
-	timeInterval: 10
-	limitTimes: 15
+balckIP: 
+  continueCounts: 10
+  timeInterval: 10
+  limitTimes: 15
